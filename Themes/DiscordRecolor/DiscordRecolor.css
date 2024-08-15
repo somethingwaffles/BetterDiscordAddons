@@ -3566,14 +3566,7 @@ html .floating-window.resizable {
 	background: var(--background-tertiary);
 	border-radius: 3px;
 }
-html .floating-window-titlebar {
-	background: var(--background-tertiary);
-	border-bottom-color: var(--background-modifier-hover);
-	color: var(--header-primary);
-	width: unset;
-	height: 32px;
-	padding: 0;
-}
+
 html .floating-window-buttons,
 html .floating-window-buttons .button {
 	display: flex;
